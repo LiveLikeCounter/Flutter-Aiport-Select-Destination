@@ -7,6 +7,11 @@ class CustomThemes
 
 class CustomColors 
 {
+  static const Color BodyBackground1 = Color.fromRGBO(142, 45, 226, 1);
+  static const Color BodyBackground2 = Color.fromRGBO(74, 0, 224, 1);
+  
+  
+  // OLD:
   static const Color BodyBackground = Color.fromRGBO(240, 248, 252, 1);
   static const Color GreyBorder = Color.fromRGBO(207, 207, 207, 1);
   static const Color BoxShadow = Color.fromRGBO(0, 0, 0, 0.06);
