@@ -9,6 +9,8 @@ class CustomColors
 {
   static const Color BodyBackground1 = Color.fromRGBO(142, 45, 226, 1);
   static const Color BodyBackground2 = Color.fromRGBO(74, 0, 224, 1);
+
+  static const Color YellowButton = Color.fromRGBO(254, 224, 33, 1);
   
   
   // OLD:

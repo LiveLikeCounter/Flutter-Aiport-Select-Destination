@@ -34,10 +34,10 @@ class _AppState extends State<App> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        canvasColor: CustomColors.BodyBackground,
-        fontFamily: 'rubik',
+        // canvasColor: CustomColors.BodyBackground,
+        fontFamily: 'OpenSans',
       ),
-      title: 'TODO',
+      title: 'Airport Desination Selector',
       initialRoute: '/home',
       routes: {
         '/': (ctx) => Home(),

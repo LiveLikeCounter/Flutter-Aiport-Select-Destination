@@ -20,7 +20,7 @@ class _HomeState extends State<Home> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-          Text('Home')
+          Text('Home, is where computer is', style: TextStyle(fontSize: 40),)
         ],
       ),
     );
